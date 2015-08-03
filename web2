@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+<meta charset="utf-8" />
+<title>Food Checker Web</title>
+<link href='http://fonts.googleapis.com/css?family=Marvel:700' rel='stylesheet' type='text/css'>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js" type="text/javascript"></script>
+<script src="jquery.scrollablelink.js" type="text/javascript"></script>
+<script src="dynamics.js"></script>
+<link rel="stylesheet" type="mycss.css">
+<style type="text/css">
+</style>
+</head>
+
+<div id="wrap">
+	  <body>
+		<style>		 </style>
+	<img src="icon2.gif" width="45" height="45">
+	<img src="logo.gif" height="45">
+<br><br><br>
+
+<br>
+<table class="formTable" align="center">
+	<tr>
+		<th><h1>Thank You!!</h1></th>
+	</tr>
+</table>
+<br><br>
+<br><br>
+
+				<p align="center">
+					<a href="web1"><input size="10"  value="         Back"/></a>
+				</p>
+	</table>
+	<br><br>
+	<br><br>
+
+    </body>
+</html>
